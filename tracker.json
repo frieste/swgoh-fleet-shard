@@ -13,6 +13,7 @@
     "allyCode": "757316595",
     "userIcon": ":bacon:",
     "tagIdOnDrop": "367800383302664193",
+    "tagIdOnClimb": "367800383302664193"
   },
   {
     "name": "NuclearLeopard9",
@@ -34,6 +35,30 @@
     "allyCode": "742815572",
     "userIcon": ":man_running:",
     "tagIdOnDrop": "517262047344590849"
+  },
+  {
+    "name": "Eegit",
+    "comment": "",
+    "allyCode": "165255564",
+    "userIcon": ":stormtrooper:",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "",
+  },
+  {
+    "name": "Tee Vex",
+    "comment": "",
+    "allyCode": "353435315",
+    "userIcon": "",
+    "tagIdOnDrop": "",
+    "tagIdOnClimb": "817571559367245864",
+  },
+  {
+    "name": "MarkieB",
+    "comment": "",
+    "allyCode": "932559526",
+    "userIcon": "innocent",
+    "tagIdOnDrop": "219918022725337089",
+    "tagIdOnClimb": "219918022725337089",
   }
 ]
 
