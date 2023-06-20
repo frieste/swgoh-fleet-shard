@@ -6,33 +6,34 @@
     "userIcon": ":flag_us:",
     "tagIdOnDrop": "866509872048111618",
     "tagIdOnClimb": "866509872048111618",
-  }
+  },
   {
     "name": "DarthBacon",
     "comment": "",
     "allyCode": "757316595",
     "userIcon": ":bacon:",
     "tagIdOnDrop": "367800383302664193",
-  }
+  },
   {
     "name": "NuclearLeopard9",
     "comment": "",
     "allyCode": "794944882",
     "userIcon": ":leopard:",
-    "tagIdOnDrop": "994786048745930762"
-  } 
+    "tagIdOnDrop": "994786048745930762",
+  } ,
   {
     "name": "Tabbsy",
     "comment": "",
     "allyCode": "164886112",
     "userIcon": ":smirk_cat:",
-    "tagIdOnDrop": "649666407386185741"
+    "tagIdOnDrop": "649666407386185741",
+  },
   {
     "name": "Henny",
     "comment": "",
     "allyCode": "742815572",
     "userIcon": ":man_running:",
-    "tagIdOnDrop": "517262047344590849"
-  {
+    "tagIdOnDrop": "517262047344590849",
+  }
 ]
 
